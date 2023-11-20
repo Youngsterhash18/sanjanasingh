@@ -1,0 +1,27 @@
+RockingTeam; Steps to use and execute the '.py' file*
+
+
+
+Installation Guide of the Program.
+
+Step 1: Paste RockingTeam.py in systum32 directory.
+
+Step 2: Run CMD  as a Administrator.
+
+Step 3: Type 'python rockingteam.py' in the panel and press enter.
+
+
+
+For Scanning The Operating System:
+
+Step 1: Type  ‘1’  and press enter.
+
+( It first verify the system Scan , then it Scan full OS and return the path of the vulnerability found in that system).
+
+
+
+For Scanning the Hardware System:
+
+Step 1: Type ‘2’  in terminal and then enter.
+
+( It check the current clock speed of the Memory as well as CPU and CHECK whether they not exceed the clock limit of that system ). 
